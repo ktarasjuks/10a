@@ -18,6 +18,7 @@ if __name__ == '__main__':
     a = 3
     b = 1
     # print(a+b)
+    result = add(3, 4)
     print('The answer is ' + str(add(a, b)))
     subs(a, b)
     mult(a, b)

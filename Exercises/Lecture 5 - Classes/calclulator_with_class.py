@@ -31,3 +31,8 @@ if __name__ == '__main__':
     calc.say_my_name()
     calc.name = 'Random Name'
     calc.say_my_name()
+
+    var_1 = Calculator.alternative_name_create('Joe Biden')
+    var_1.say_my_name()
+
+

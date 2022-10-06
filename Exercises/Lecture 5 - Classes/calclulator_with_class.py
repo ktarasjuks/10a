@@ -35,4 +35,6 @@ if __name__ == '__main__':
     var_1 = Calculator.alternative_name_create('Joe Biden')
     var_1.say_my_name()
 
+    print(Calculator.add(a,b))
+    print(var_1.mult(a,b))
 
